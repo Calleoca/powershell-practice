@@ -1,6 +1,8 @@
 # Used to collect information from computer
 
-# ======== PLEASE READ =========
+# Tested on Windows 7; Powershell v2
+# Must run as Administrator for full control
+
 # Execute this command in PowerShell beforehand
 # if PowerShell will not let you run the script:
 # Set-ExecutionPolicy Unrestricted
